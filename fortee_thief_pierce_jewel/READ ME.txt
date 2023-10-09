@@ -1,0 +1,11 @@
+%author aaron
+This Couch Potato bot farms the Ghultures in Mirage
+Bot comes with an in built quick sell function that sells all non-crown seeds (i.e. keeps CP and EMP seeds)
+
+Uses a modified UWB (credit Major)
+
+set up configs according to your character's spells
+for more info about config set up see Major's examples on his github
+
+To start go to caravan in Mirage and stand near the ghultures place a waypoint marker and run the Couch potato python file
+it is recommended to start with full mana and potions
