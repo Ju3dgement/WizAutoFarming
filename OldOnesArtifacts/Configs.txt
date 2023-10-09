@@ -1,0 +1,19 @@
+Wooden_Chest = False
+player1_realm = Diego
+player2_realm = Lincoln
+player3_realm = Lincoln
+player4_realm = Stormzilla
+====================================================================================================================
+NOTE NOTE NOTE ---> DO NOT SHARE CODE AROUND <--- NOTE NOTE NOTE
+Note # Start at 'Ursai Village' and run 'old_art.py'
+Note # Wooden chest config value can only be spelled "True" without the "" during config, anything else would make wooden_chest config into False
+Note # Wooden chest will provide aura tc, misc reagents and gold, however will waste mote time in finding OOA resouces
+Note # Seperate page config from each player if possible if running with multiple accounts for greater yield of resources, given the time frame some clients may overlap because of async.sleep(n) after a few hours
+Note # You can not be in the configed realm when running the program, eg if player1_realm is set to Diego and player1 is in diego realm when you run the program, it will not run. Swap to a different realm and restart
+Note # Press "Ctrl + c" to exit, unhook and end program via the current pop up prompt (cmd/python/IDM/etc)
+Note # A spelling mistake in te player(n)_realm will freeze the program, capitalization does not matter
+Note # The maximum of client supported by this program is 4, any more will overlap each player 
+Note # Do not invite each client into the same group, wiz client will automatically put you in the same realm as one another when swapping areas
+Note # It is always better to run the 'old_art' file in CMD to see the error IF it crashes and its much more efficent in general
+NOTE NOTE NOTE ---> DO NOT SHARE CODE AROUND <--- NOTE NOTE NOTE
+
