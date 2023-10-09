@@ -1,0 +1,13 @@
+
+
+------ [Change] ControlButton
+------ [ControlText] ControlText
+
+
+
+---- [Exit] ControlButton
+---- [PageButtons] Window
+----- [PageNumber] ControlText
+----- [rightscroll] ControlButton
+----- [leftscroll] ControlButton
+---- [UnequipButton] ControlButton
