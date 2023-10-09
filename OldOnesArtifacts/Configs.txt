@@ -4,7 +4,6 @@ player2_realm = Lincoln
 player3_realm = Lincoln
 player4_realm = Stormzilla
 ====================================================================================================================
-NOTE NOTE NOTE ---> DO NOT SHARE CODE AROUND <--- NOTE NOTE NOTE
 Note # Start at 'Ursai Village' and run 'old_art.py'
 Note # Wooden chest config value can only be spelled "True" without the "" during config, anything else would make wooden_chest config into False
 Note # Wooden chest will provide aura tc, misc reagents and gold, however will waste mote time in finding OOA resouces
@@ -15,5 +14,4 @@ Note # A spelling mistake in te player(n)_realm will freeze the program, capital
 Note # The maximum of client supported by this program is 4, any more will overlap each player 
 Note # Do not invite each client into the same group, wiz client will automatically put you in the same realm as one another when swapping areas
 Note # It is always better to run the 'old_art' file in CMD to see the error IF it crashes and its much more efficent in general
-NOTE NOTE NOTE ---> DO NOT SHARE CODE AROUND <--- NOTE NOTE NOTE
 
