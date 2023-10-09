@@ -1,0 +1,3 @@
+wizwalker>= 1.82 pip install wizwalker
+wizsprinter>= 0.45 pip install wizprinter
+Python>= 3.85
