@@ -8,3 +8,4 @@ Tutorial:
 4) pip install wizsprinter
 5) run .py file in folder while game client is open
 
+Would like to thank the wizwalker community and many of the contributors for making this possible. Uses various other open source combat handers for some combats.
